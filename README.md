@@ -6,3 +6,6 @@ Just a single, cross shaped cursor
   <img src="./github.png" alt="image"/>
 </p>
 
+---
+
+This project is [`repository-manager`](https://github.com/vE5li/repository-manager) conform.
